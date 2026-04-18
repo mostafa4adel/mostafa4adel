@@ -24,4 +24,5 @@ I am part of the **SQL team** at Incorta, where I focus on developing cool distr
 
 I'm always open to discussing distributed systems, big data tech, or software engineering in general. Feel free to reach out!
 
-[![LinkedIn](https://www.linkedin.com/in/mostafa-adel-5687b51b1/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mostafa-adel-5687b51b1)
